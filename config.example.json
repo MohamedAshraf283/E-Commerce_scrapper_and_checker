@@ -1,0 +1,25 @@
+{
+  "browser_exe": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+  "user_data_dir": "C:\\Users\\YOUR_USER\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data",
+  "profile_dir": "Default",
+  "link_column": "link",
+  "category_urls_column": "",
+  "concurrency": 2,
+  "navigation_timeout_ms": 30000,
+  "save_every": 5,
+  "restart_every": 100,
+  "min_delay_sec": 1.0,
+  "max_delay_sec": 3.0,
+  "human_verification_wait_sec": 60,
+  "max_categories_per_store": 20,
+  "max_category_pages": 3,
+  "max_products_per_store": 200,
+  "selectors": {
+    "category_links": "",
+    "product_card": "",
+    "product_name": "",
+    "product_price": "",
+    "product_url": "",
+    "product_image": ""
+  }
+}
