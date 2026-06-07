@@ -52,7 +52,7 @@ class App(tk.Tk):
         )
 
         self.user_data_dir_var = tk.StringVar(
-            value=r"C:\Users\Mohamed Ashraf\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default"
+            value=r"C:\Users\user\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default"
         )
         self.profile_dir_var = tk.StringVar(value="Default")
         self.link_column_var = tk.StringVar(value="link")
