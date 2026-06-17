@@ -397,35 +397,3 @@ project/
 * Tkinter
 * AsyncIO
 * Threading
-
----
-
-# Disclaimer
-
-This tool is intended for legitimate data collection, analysis, research, inventory management, and business intelligence purposes.
-
-Users are responsible for complying with applicable laws, website terms of service, and privacy regulations when using this software.
-
----
-
-# Future Roadmap
-
-Planned future enhancements:
-
-* Multi-browser support
-* Proxy management
-* Scheduling and automation
-* Advanced category discovery
-* AI-assisted selector generation
-* Export to CSV / JSON
-* Dashboard analytics
-* Distributed scraping support
-* Resume and checkpoint system improvements
-* Store change monitoring and alerts
-
----
-
-**Version:** 1.0
-**Platform:** Windows Desktop
-**Target Platforms:** Salla & Zid Stores
-**Language:** Python + Playwright + Tkinter
